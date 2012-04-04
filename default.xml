@@ -16,7 +16,6 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="platform/build">
   <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
