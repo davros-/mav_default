@@ -3,6 +3,10 @@
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
+  
+  <remote  name="github"
+           fetch="git://github.com/"
+           review="review.cyanogenmod.com" />
 
  <remote  name="omapzoom"
            fetch="git://git.omapzoom.org/"
