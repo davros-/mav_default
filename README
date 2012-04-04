@@ -1,2 +1,8 @@
 frist attempt
 
+
+
+repo init -u git://github.com/davros-/mav_default.git -b master
+
+
+repo sync
