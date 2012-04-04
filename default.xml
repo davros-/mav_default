@@ -16,7 +16,9 @@
            remote="aosp"
            sync-j="4" />
 
+  <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="build" name="platform/build">
+  <project path="build" name="CyanogenMod/android_build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="platform/bionic" />
