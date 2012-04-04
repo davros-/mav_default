@@ -2,7 +2,7 @@ frist attempt
 
 
 
-repo init -u git://github.com/davros-/mav_default.git -b master
+repo init -u https://davros-@github.com/davros-/mav_default.git -b master
 
 
 repo sync
