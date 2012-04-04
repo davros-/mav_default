@@ -206,5 +206,6 @@
   <project path="vendor/cyanogen" name="Hashcode/android_vendor_cyanogen" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/solana" name="Hashcode/android_vendor_motorola_solana" remote="github" revision="gingerbread" />
   <project path="vendor/motorola/spyder" name="Hashcode/android_vendor_motorola_spyder" remote="github" revision="gingerbread" />
+  <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" remote="github" revision="gingerbread" />
 
 </manifest>
