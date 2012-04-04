@@ -12,10 +12,7 @@
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
 
-  <default revision="gingerbread"
-           remote="github" />
-
-  <default revision="refs/tags/android-2.3.7_r1"
+    <default revision="refs/tags/android-2.3.7_r1"
            remote="aosp"
            sync-j="4" />
 
